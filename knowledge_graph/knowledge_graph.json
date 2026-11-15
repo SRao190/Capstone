@@ -1,7 +1,7 @@
 {
   "metadata": {
     "repository": "/home/sahar/workspace/Capstone",
-    "generated_at": "2026-11-15T07:01:34.178429+00:00",
+    "generated_at": "2026-11-15T07:02:02.893847+00:00",
     "total_files_indexed": 6,
     "total_nodes": 241,
     "total_edges": 378,
@@ -25,13 +25,13 @@
     "sqlite_delta": {
       "mode": "delta_update",
       "db_path": "/home/sahar/workspace/Capstone/knowledge_graph/knowledge_graph.db",
-      "nodes_upserted": 71,
+      "nodes_upserted": 0,
       "nodes_deleted": 0,
-      "edges_upserted": 118,
+      "edges_upserted": 0,
       "edges_deleted": 0,
       "wiki_pages_upserted": 0,
       "wiki_pages_deleted": 0,
-      "files_upserted": 1,
+      "files_upserted": 0,
       "files_deleted": 0,
       "total_nodes_in_db": 241,
       "total_edges_in_db": 378,

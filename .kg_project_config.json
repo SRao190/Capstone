@@ -1,8 +1,19 @@
 {
-  "single_repo_mode": true,
+  "project_name": "Capstone",
+  "project_slug": "capstone",
+  "project_path": "/home/sahar/workspace/Capstone",
+  "target_host": "192.168.1.161",
+  "ssh_user": "sahar",
+  "developer_name": "Sahar",
   "git_remote_url": "https://github.com/SRao190/Capstone.git",
   "git_branch": "main",
-  "mcp_endpoint": "http://192.168.1.181:8000/mcp",
-  "vectordb_endpoint": "192.168.1.155:30432",
-  "installed_at": "2026-11-15T07:01:45.776005"
+  "git_author_name": "Sahar",
+  "git_author_email": "saharrao22@gmail.com",
+  "single_repo_mode": true,
+  "cluster_5node_sync": false,
+  "pgvector_host": "192.168.1.155",
+  "pgvector_port": 30432,
+  "pgvector_table": "kg_vectors_capstone",
+  "mcp_gateway": "http://192.168.1.181:8000/mcp",
+  "updated_at": "2026-11-15T07:01:55.841447+00:00"
 }

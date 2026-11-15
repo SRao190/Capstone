@@ -1,7 +1,7 @@
 # Kubernetes Repository Knowledge Graph
 
 - **Repository Root**: `/home/sahar/workspace/Capstone`
-- **Last Updated**: `2026-11-15T07:01:34.178429+00:00`
+- **Last Updated**: `2026-11-15T07:02:02.893847+00:00`
 - **Indexed Files**: `6`
 - **Total Graph Nodes**: `241`
 - **Total Graph Edges**: `378`
